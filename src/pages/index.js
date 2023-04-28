@@ -50,7 +50,7 @@ export default function Home() {
 
             <button
               type="button"
-              className="mx-3 rounded-full bg-green-500  p-3 font-medium hover:bg-green-400"
+              className="mx-3 rounded-full bg-green-500 p-3 font-medium hover:bg-green-400"
               onClick={increment}
             >
               Notification ++
